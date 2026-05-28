@@ -1,6 +1,6 @@
 {
-  "name": "talkative-v2",
-  "private": true,
+  "name": "client",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
